@@ -1,0 +1,7 @@
+{
+    "name": "Rasa Heroku",
+    "description": "A barebones Rasa NLU server installation using Docker",
+    "repository": "https://github.com/vinod0354/rasa.git",
+    "logo": "https://s3-us-west-2.amazonaws.com/spaceocanadawp/2019/12/rasa-framework.png",
+    "stack": "container"
+  }
